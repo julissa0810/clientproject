@@ -1,10 +1,32 @@
 h2{ 
    text-align: center;
+   font-family: 'Cinzel', serif;
 }
 
+marquee{ 
+    color:white;
+    font-family: 'Cinzel', serif;
+    font-weight: bolder;
+}
 .series{ 
     text-align: left;
     padding: 0 25% ;
+    color:white;
+    font-family: 'Cinzel', serif;
+
 } 
+.topnav{
+    text-align: center;
+    display:flex;
+    justify-content:space-around;
+    font-family: 'Cinzel', serif;
+    
+}
+a:visited{ color: yellow;}
 
-
+body{ 
+    background-image: url("http://kmpmediagroup.com/wp-content/uploads/2017/01/search-background-img.jpg")
+}
+.rainbow-text {
+  background-image: linear-gradient(to left, pink,violet,indigo,purple);
+}
